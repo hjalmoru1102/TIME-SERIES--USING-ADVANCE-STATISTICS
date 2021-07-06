@@ -14,8 +14,11 @@ Models: (Comparison Metrics= RMSE etc)
 
 
 Arima RMSE: 9494498.075368734
+
 Sarima RMSE: 4049332.091617241
+
 Holt-winter’s multiplicative: 25409578.81871143
+
 Holt-winter’s additive: 25409578.81871143
 
 
