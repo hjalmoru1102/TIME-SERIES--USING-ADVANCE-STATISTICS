@@ -1,5 +1,6 @@
 # TIME-SERIES--USING-ADVANCE-STATISTICS
 INCLUDES 2 PROJECTS 
+
 U.S Air Carrier Traffic Statistics 
 
 Data: Monthly, from Jan 2000 to Feb 2020. 
@@ -20,6 +21,9 @@ Sarima RMSE: 4049332.091617241
 Holt-winter’s multiplicative: 25409578.81871143
 
 Holt-winter’s additive: 25409578.81871143
+
+
+
 
 
 Champagne Sales forecast- short project.
